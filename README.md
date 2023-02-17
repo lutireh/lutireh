@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌎 Brazilian
-- 👨‍🎓 Undergraduate Information System student UNICAMP (4/8)
+- 👨‍🎓 Undergraduate Information System student UNICAMP (5/8)
 - 👨‍💼 Project advisor Atria Jr.
 - 🧠 Interested in Front-End
 - ⚡ Fun fact: I'm addicted in chimarrão (tipical beverage from the South of Brazil)
