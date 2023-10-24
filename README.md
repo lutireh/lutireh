@@ -2,8 +2,8 @@
 
 ## About Me
 - 🌎 Brazilian
+- 👨‍💼 Android developer
 - 👨‍🎓 Undergraduate Information System student UNICAMP (6/8)
-- 👨‍💼 Project advisor Atria Jr.
 - 🧠 Interested in Front-End, studing Android development using Kotlin 
 - ⚡ Fun fact: I'm addicted in chimarrão (tipical beverage from the South of Brazil)
 
