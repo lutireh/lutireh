@@ -3,9 +3,8 @@
 ## About Me
 - 🌎 Brazilian
 - 👨‍💼 Android developer
-- 👨‍🎓 Undergraduate Information System student UNICAMP (6/8)
+- 👨‍🎓 Undergraduate Information System UNICAMP
 - 🧠 Interested in Front-End, studing Android development using Kotlin 
-- ⚡ Fun fact: I'm addicted in chimarrão (tipical beverage from the South of Brazil)
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizatirellirehbein@gmai.com)
