@@ -4,7 +4,7 @@
 - 🌎 Brazilian
 - 👨‍💼 Android developer
 - 👨‍🎓 Undergraduate Information System UNICAMP
-- 🧠 Interested in Front-End, studing Android development using Kotlin 
+- 🧠 Interested in mobile world
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizatirellirehbein@gmai.com)
